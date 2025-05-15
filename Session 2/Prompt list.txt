@@ -6,10 +6,14 @@ Ten friends have a dinner in a restaurant. Since four of them don't carry any mo
 ---
 
 Ten friends have a dinner in a restaurant. Since four of them don't carry any money, the other six friends pay for them. How much cheaper for each of these six friends would it be if everybody had paid?
-
 (A) 60%     (B) 30%     (C) 45%     (D) 40%     (E) 50%
 
 ---
 
 On Saturday, Jimmy started painting his toy helicopter between 9:00 a.m. and 10:00 a.m. When he finished between 10:00 a.m. and 11:00 a.m. on the same morning, the hour hand was exactly where the minute hand had been when he started, and the minute hand was exactly where the hour hand had been when he started. Jimmy spent t hours painting. Determine the value of t.
+
+---
+
+Write a Python function to check whether a given integer is prime, discussing, in no more than 50 words, the logic on which your code is based.
+Apply the function to a few examples. 
 

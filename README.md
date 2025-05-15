@@ -2,7 +2,7 @@
 
 ### Session 1 (I Alegre): Introduction to AI and GenAI
 
-#### Session 2 (MA Canela):  Large Language Models (LLMs)
+### Session 2 (MA Canela):  Large Language Models (LLMs)
 
 ### Session 3 (I Alegre): Use Cases
 

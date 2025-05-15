@@ -16,7 +16,7 @@ General Inquiry secondary categories: Product information, Pricing, Feedback, Sp
 
 Customer query: I need to get my internet working again.
 
-## Output (Gemini)
+## Output (Gemini 2.0)
 
 ```
 json
@@ -32,7 +32,7 @@ json
 
 Customer query: I forgot my password.
 
-## Output (Gemini)
+## Output (Gemini 2.0)
 
 ```
 json

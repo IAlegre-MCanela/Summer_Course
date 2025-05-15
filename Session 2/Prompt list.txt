@@ -1,0 +1,14 @@
+Prompt list
+===========
+
+Ten friends have a dinner in a restaurant. Since four of them don't carry any money, the other six friends pay for them. How much cheaper for each of these six friends would it be if everybody had paid?
+
+---
+
+Ten friends have a dinner in a restaurant. Since four of them don't carry any money, the other six friends pay for them. How much cheaper for each of these six friends would it be if everybody had paid?
+
+(A) 60%     (B) 30%     (C) 45%     (D) 40%     (E) 50%
+
+---
+
+

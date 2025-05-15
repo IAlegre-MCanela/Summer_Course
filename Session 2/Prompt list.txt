@@ -17,3 +17,10 @@ On Saturday, Jimmy started painting his toy helicopter between 9:00 a.m. and 10:
 Write a Python function to check whether a given integer is prime, discussing, in no more than 50 words, the logic on which your code is based.
 Apply the function to a few examples. 
 
+---
+
+Google Sheet formula which copies all rows from sheet1 where column "A" contains word "iphone".
+
+---
+
+Excel formula which copies all rows from sheet1 where column "A" contains word "iphone".

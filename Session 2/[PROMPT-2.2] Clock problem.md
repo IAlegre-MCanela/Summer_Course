@@ -2,7 +2,7 @@
 
 ## Input
 
- On Saturday, Jimmy started painting his toy helicopter between 9:00 a.m. and 10:00 a.m. When he finished between 10:00 a.m. and 11:00 a.m. on the same morning, the hour hand was exactly where the minute hand had been when he started, and the minute hand was exactly where the hour hand had been when he started. Jimmy spent t hours painting. Determine the value of t.
+On Saturday, Jimmy started painting his toy helicopter between 9:00 a.m. and 10:00 a.m. When he finished between 10:00 a.m. and 11:00 a.m. on the same morning, the hour hand was exactly where the minute hand had been when he started, and the minute hand was exactly where the hour hand had been when he started. Jimmy spent t hours painting. Determine the value of t.
 
 ## Output (Gemini 2.0)
 

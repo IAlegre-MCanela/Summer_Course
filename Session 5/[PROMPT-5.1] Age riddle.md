@@ -3,6 +3,7 @@
 ## Input
 
 Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+
 (A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
 
 ## Output (gemma-3-4b-it)
@@ -54,6 +55,7 @@ The answer is (B).
 ## Input
 
 Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+
 (A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
 
 ## Output (Gemini 2.0)
@@ -123,8 +125,6 @@ Then $M = 2 \times 15 = 30$.
 My current age is 30. Ten years ago I was 20, and my brother was 5. $20 = 4 \times 5$. Currently I am 30 and my brother is 15. $30 = 2 \times 15$. The solution is consistent with the problem statement.
 
 Since 30 is not among the options, the answer is (E) None of the others.
-
-Final Answer: The final answer is $\boxed{None of the others}$
 
 ## Input
 

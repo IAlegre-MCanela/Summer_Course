@@ -1,0 +1,11 @@
+Prompt list
+===========
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+
+---
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+Answer in a single token.

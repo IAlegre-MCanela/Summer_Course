@@ -4,7 +4,7 @@
 
 Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
 
-(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+(A) 20 years old &nbsp;&nbsp;&nbsp;&nbsp; (B) 40 years old &nbsp;&nbsp;&nbsp;&nbsp; (C) 25 years old &nbsp;&nbsp;&nbsp;&nbsp; (D) 35 years old &nbsp;&nbsp;&nbsp;&nbsp; (E) None of the others
 
 ## Output (gemma-3-4b-it)
 
@@ -56,7 +56,7 @@ The answer is (B).
 
 Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
 
-(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+(A) 20 years old &nbsp;&nbsp;&nbsp;&nbsp; (B) 40 years old &nbsp;&nbsp;&nbsp;&nbsp; (C) 25 years old &nbsp;&nbsp;&nbsp;&nbsp; (D) 35 years old &nbsp;&nbsp;&nbsp;&nbsp; (E) None of the others
 
 ## Output (Gemini 2.0)
 
@@ -130,7 +130,7 @@ Since 30 is not among the options, the answer is (E) None of the others.
 
 Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
 
-(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+(A) 20 years old &nbsp;&nbsp;&nbsp;&nbsp; (B) 40 years old &nbsp;&nbsp;&nbsp;&nbsp; (C) 25 years old &nbsp;&nbsp;&nbsp;&nbsp; (D) 35 years old &nbsp;&nbsp;&nbsp;&nbsp; (E) None of the others
 
 Answer in a single token.
 

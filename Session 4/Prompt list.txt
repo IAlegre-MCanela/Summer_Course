@@ -85,6 +85,7 @@ Your task is to display the information contained in the following fact sheet in
     "Content Formats Supported": "Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF, unprotected MOBI, PRC natively; PDF, DOCX, DOC, HTML, EPUB, TXT, RTF, JPEG, GIF, PNG, BMP through conversion; Audible audio format (AAX). Learn more about supported file types for personal documents."
 }
 </fact_sheet>
+
 ---
 
 You are a customer service AI assistant. Your task is to send an email reply to a valued customer. Given the below customer email review, generate an email reply to thank the customer for their review.
@@ -155,3 +156,15 @@ Message: You can't ignore this
 {"message": "You can't ignore this", "label": "neutral"}
 </example>
 Message: I'm excited about the new course on AI
+
+---
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+
+---
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old    (B) 40 years old    (C) 25 years old    (D) 35 years old    (E) None of the others
+Answer in a single token.
+

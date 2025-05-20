@@ -58,7 +58,7 @@ Do you sell TVs?
 </query>
 ```
 
-## Output (Gemini)
+## Output (Gemini 2.0)
 
 §§§ Step 1: The user is not asking about a specific product.
 
